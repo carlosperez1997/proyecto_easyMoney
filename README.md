@@ -21,9 +21,9 @@ El proyecto consiste en 6 tareas:
     
     En esta tarea también se tiene en cuenta los [Requerimientos de la plataforma de productivización](./tarea3_Recomendacion/tarea3-ProduccionSpecs.ipynb) para poder operar los modelos desarrollados en este proyecto. 
 
-- [**Tarea 4. Personalización**](./tarea4_Personalizacion/tarea4-personalizacion.ipynb) 
+- [**Tarea 4. Personalización**](./tarea4_Personalizacion/tarea4-personalizacion.ipynb) En esta tarea se realiza una segmentación de los 10.000 emails que resultan de la tarea 3. El objetivo es obtener 4 o 5 creatividades distintas correspondientes a diferentes perfiles en función del perfil de los clientes, según edad, sexo, ingresos, etc.
 
-- [**Tarea 5. Seguimiento**](./tarea5_Seguimiento/tarea5-seguimiento.ipynb)
+- [**Tarea 5. Seguimiento**](./tarea5_Seguimiento/tarea5-seguimiento.ipynb) En esta tarea se definen una serie de KPIs para hacer seguimiento de la campaña.
 
 - [**Tarea 6. Coordinación**](./tarea6_Coordinacion/tarea6-coordinaci-n.ipynb) En esta tarea, se determina el proceso de coordinación y validación de los cambios y mejoras que se implementen en los modelos opertativos como en el dashboard. 
 
