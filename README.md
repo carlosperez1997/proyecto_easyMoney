@@ -21,7 +21,7 @@ El proyecto consiste en 6 tareas:
     
     En esta tarea también se tiene en cuenta los [Requerimientos de la plataforma de productivización](./tarea3_Recomendacion/tarea3-ProduccionSpecs.ipynb) para poder operar los modelos desarrollados en este proyecto. 
 
-- [**Tarea 4. Personalización**](./tarea4_Personalizacion/tarea4-personalizacion.ipynb)
+- [**Tarea 4. Personalización**](./tarea4_Personalizacion/tarea4-personalizacion.ipynb) 
 
 - [**Tarea 5. Seguimiento**](./tarea5_Seguimiento/tarea5-seguimiento.ipynb)
 
