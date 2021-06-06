@@ -1,5 +1,5 @@
 # Proyecto easyMoney
-**Desarrollado por:** Nerio Ruiz, Adriana Ruiz y Carlos Pérez
+**Desarrollado por:** Nerio Ruiz, Adriana Ruiz y [Carlos Pérez](./tarea1_Analisis/)
 
 <img src="https://nuclio.school/wp-content/uploads/2019/10/nucleoDS-newBlack.png" alt="Nuclio Digital School" style="width: 400px; height: 116px; margin: 43.4px 0px;" />
 
@@ -17,7 +17,7 @@ El proyecto consiste en 6 tareas:
 
 - [**Tarea 2. Segmentación**](./tarea2_Segmentacion/tarea2-segmentacion.ipynb) En esta tarea se realiza una segmentación de nuestra cartera de clientes con el fin de poder orientar nuestra actividad comercial. Los diferentes clusters pueden visualizarse en el siguiente [link](http://carlosperez1697.pythonanywhere.com/segmentacion).
 
-- [**Tarea 3. Recomendación**](./tarea3_Recomendacion/tarea3-recomendacion.ipynb) En esta tarea se realiza recomendaciones de productos a 10.000 clientes para ello primero se realizan las recomendaciones y después se pasan por un [Modelo de Compra](./tarea3_Recomendacion/tarea3-ModeloCompra.ipynb) para escoger que recomendaciones tendrán más probabilidad de éxito y mayor beneficio ofrecen a la compañía. 
+- [**Tarea 3. Recomendación**](./tarea3_Recomendacion/tarea3-recomendacion.ipynb) En esta tarea se realiza recomendaciones de productos a 10.000 clientes para ello primero se realizan las recomendaciones y después se pasan por un [Modelo de Compra](./tarea3_Recomendacion/tarea3-modelo-compra.ipynb) para escoger que recomendaciones tendrán más probabilidad de éxito y mayor beneficio ofrecen a la compañía. 
     
     En esta tarea también se tiene en cuenta los [Requerimientos de la plataforma de productivización](./tarea3_Recomendacion/tarea3-ProduccionSpecs.ipynb) para poder operar los modelos desarrollados en este proyecto. 
 
@@ -25,6 +25,6 @@ El proyecto consiste en 6 tareas:
 
 - [**Tarea 5. Seguimiento**](./tarea5_Seguimiento/tarea5-seguimiento.ipynb)
 
-- [Tarea 6. Coordinación](./tarea6_Coordinacion/tarea6-coordinaci-n.ipynb) 
+- [**Tarea 6. Coordinación**](./tarea6_Coordinacion/tarea6-coordinaci-n.ipynb) En esta tarea, se determina el proceso de coordinación y validación de los cambios y mejoras que se implementen en los modelos opertativos como en el dashboard. 
 
 
