@@ -1,5 +1,5 @@
 # Proyecto easyMoney
-**Desarrollado por:** Nerio Ruiz, Adriana Ruiz y [Carlos Pérez](./tarea1_Analisis/)
+**Desarrollado por:** [Nerio Ruiz](https://github.com/nerioruiz), [Adriana Ruiz](https://github.com/adrianaruizm) y [Carlos Pérez](https://github.com/carlosperez1997)
 
 <img src="https://nuclio.school/wp-content/uploads/2019/10/nucleoDS-newBlack.png" alt="Nuclio Digital School" style="width: 400px; height: 116px; margin: 43.4px 0px;" />
 
