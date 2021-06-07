@@ -27,4 +27,4 @@ El proyecto consiste en 6 tareas:
 
 - [**Tarea 6. Coordinación**](./tarea6_Coordinacion/tarea6-coordinaci-n.ipynb) En esta tarea, se determina el proceso de coordinación y validación de los cambios y mejoras que se implementen en los modelos opertativos como en el dashboard. 
 
-
+El proyecto también puede visualizarse en este [dataset de Kaggle](https://www.kaggle.com/carlosperez97/easymoneygrupo5), ahí se encuentran todos los archivos tanto originales como intermedios; y se pueden ejecutar los notebooks.
