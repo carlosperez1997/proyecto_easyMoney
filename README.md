@@ -17,7 +17,7 @@ El proyecto consiste en 6 tareas:
 
 - [**Tarea 2. Segmentación**](./tarea2_Segmentacion/tarea2-segmentacion.ipynb) En esta tarea se realiza una segmentación de nuestra cartera de clientes con el fin de poder orientar nuestra actividad comercial. Los diferentes clusters pueden visualizarse en el siguiente [link](http://carlosperez1697.pythonanywhere.com/segmentacion).
 
-- [**Tarea 3. Recomendación**](./tarea3_Recomendacion/tarea3-recomendacion.ipynb) En esta tarea se realiza recomendaciones de productos a 10.000 clientes para ello primero se realizan las recomendaciones y después se pasan por un [Modelo de Compra](./tarea3_Recomendacion/tarea3-modelo-compra.ipynb) para escoger que recomendaciones tendrán más probabilidad de éxito y mayor beneficio ofrecen a la compañía. 
+- [**Tarea 3. Recomendación**](./tarea3_Recomendacion/tarea3-recomendaci-n.ipynb) En esta tarea se realiza recomendaciones de productos a 10.000 clientes para ello primero se realizan las recomendaciones y después se pasan por un [Modelo de Compra](./tarea3_Recomendacion/tarea3-modelo-compra.ipynb) para escoger que recomendaciones tendrán más probabilidad de éxito y mayor beneficio ofrecen a la compañía. 
     
     En esta tarea también se tiene en cuenta los [Requerimientos de la plataforma de productivización](./tarea3_Recomendacion/tarea3-produccion-specs.ipynb) para poder operar los modelos desarrollados en este proyecto. 
 
